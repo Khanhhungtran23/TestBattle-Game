@@ -1,3 +1,3 @@
 # NarutoBattle-Game
-# Made by Trần Vũ Khánh Hưng
-# Language: JAVA
+Made by Trần Vũ Khánh Hưng
+ Language: JAVA
